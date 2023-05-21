@@ -4,8 +4,8 @@ const { v4: uuidv4 } = require('uuid');
 const db = require('./db/db.json');
 const fs = require('fs');
 
-router.use(express.json());
-router.use(express.urlencoded({ extended: true }))
+// router.use(express.json());
+// router.use(express.urlencoded({ extended: true }))
 
 router.get('/', (req, res) => res.json(db));
 
