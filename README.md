@@ -10,6 +10,8 @@
 - Notes will be added to db.json
 - Refreshing the page will show the newly added note
 
+Link to deployed website:[https://note-taker987.herokuapp.com/]
+
 ![Landing Page](images/landingpage.png)
 ![Show Note](images/show_exisiting_note.png)
 ![Creating Note](images/creating_new_note.png)
