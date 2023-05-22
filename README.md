@@ -10,6 +10,11 @@
 - Notes will be added to db.json
 - Refreshing the page will show the newly added note
 
+- It may take up to 15 seconds for the website to work
+- It says nothing exist. Refresh page after 10-15 seconds and the website will pop up
+- May sometimes not read all of the files. Reload the page after 15 seconds to load finnish loading files
+- May be Heroku issues
+
 Link to deployed website:[https://note-taker987.herokuapp.com/]
 
 ![Landing Page](images/landingpage.png)
